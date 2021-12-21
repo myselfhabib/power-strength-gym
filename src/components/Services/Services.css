@@ -1,0 +1,62 @@
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    height: 300px; 
+    border-radius: 10px;
+
+}
+.inner{
+    overflow: hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.2);
+}
+.card{
+    margin-bottom: 20px;
+    justify-content:space-between;
+}
+.title-sr{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 400%;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: rgb(78, 76, 76);
+}
+.card-body{
+    text-align: center;
+}
+.card-grid{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 20px;
+}
+.crd-title{
+font-weight: 700;
+font-size: 25px;
+}
+.crd-btn{
+    padding: 7px;
+    background-color: rgb(250, 33, 70);
+    border-radius: 17px;
+    color: white;
+}
+.crd-btn:hover{
+ background-color: rgb(163, 9, 9);
+}
+.fitness{
+    color: rgb(180, 7, 7);
+}
+.bg-color{
+background-color: rgb(223, 222, 222);
+border-radius: 10px;
+padding-top: 10px;
+padding-bottom: 5px;
+}
+

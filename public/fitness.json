@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Big Box Gyms",
+    "description": "Big box gyms — corporate  gym,  chains you can  find in almost every city — offer a little bit of everything.They tend to have a massive area devoted to cardio equipment  plus (sometimes) other equipment and amenities.",
+    "price": 499,
+    "image": "./assets/fitnessimg/gym1.jpg",
+    "type": "Fitness"
+  },
+  {
+    "id": 2,
+    "title": "Boutique Gyms",
+    "description": "When most people think of gyms, they think of a  place they go to, work out, and leave.That’s changing with the growing popularity of boutique gyms.",
+    "price": 599,
+    "image": "./assets/fitnessimg/gym2.jpg",
+    "type": "Fitness"
+  },
+  {
+    "id": 3,
+    "title": "Personal Training Gyms",
+    "description": "While you can find personal , trainers at many ,  different kinds of gyms, this variety specializes in them.You won’t find big brand names in this section.",
+    "price": 799,
+    "image": "./assets/fitnessimg/gym3.jpg",
+    "type": "Fitness"
+  },
+  {
+    "id": 4,
+    "title": "Women’s Gyms",
+    "description": "Some women may not feel , comfortable , going,    to  a  regular gym.An article in Glamour detailed how some women feelharassment when they work out, which contributes to some women not getting as much.",
+    "price": 599,
+    "image": "./assets/fitnessimg/gym4.jpg",
+    "type": "Fitness"
+  },
+  {
+    "id": 5,
+    "title": "CrossFit Gyms",
+    "description": "After just 1 month of CrossFit, you can start noticing serious improvement in your figure.This method of high-intensity interval training has risen in popularity in recent years, and now, there are tons of gyms in every city that specialize in the format.",
+    "price": 699,
+    "image": "./assets/fitnessimg/gym5.jpg",
+    "type": "Fitness"
+  },
+  {
+    "id": 6,
+    "title": "Powerlifting Gyms",
+    "description": "When your goal is to bulk up or get crazy strong, you may want to sign up for a powerlifting gym.These locations are laser-focused on offering the most heavy-duty weight lifting equipment imaginable.",
+    "price": 500,
+    "image": "./assets/fitnessimg/gym6.jpg",
+    "type": "Fitness"
+  }
+]

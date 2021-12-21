@@ -1,0 +1,20 @@
+.head-banner{
+    text-align: start;
+    margin-left: 13%;
+    color: rgba(255, 254, 254, 0.747);
+}
+.text-center{
+    /* margin-bottom: 19%; */
+    margin-top: 20%;
+}
+.atv{
+    background-color: rgb(192, 4, 66);
+    padding: 7px;
+    color: white;
+    border-radius: 17px;
+    font-weight: 600;
+    margin-bottom: 20%;
+}
+.title-clr{
+    color: rgb(214, 4, 4);
+}

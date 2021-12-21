@@ -1,0 +1,19 @@
+.gallery{
+    text-align: center;
+    margin-top: 10%;
+}
+.footer{
+    margin-top: 10%;
+}
+.gallery2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.head-txt{
+ font-size: 40px;
+ font-weight: 700;
+ color: rgb(78, 76, 76);
+}
+.head-txt2{
+    color: rgb(180, 7, 7);
+}

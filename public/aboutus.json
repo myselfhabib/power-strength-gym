@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/fitnessimg/gym5.jpg",
+    "title": "Crossfit Gym",
+    "description": "At boutique locations, you’re not just an individual.You sign up and (often) work out as part of a group."
+  },
+  {
+    "id": 2,
+    "image": "./assets/fitnessimg/gym2.jpg",
+    "title": "Powerlifting Gym",
+    "description": "When your goal is to bulk up or get crazy strong,you may want to sign up for a powerlifting gym."
+  },
+  {
+    "id": 3,
+    "image": "./assets/fitnessimg/gym1.jpg",
+    "title": "Big box Gym",
+    "description": "When your goal is to bulk up or get crazy strong,you may want to sign up for a powerlifting gym."
+  }
+]
